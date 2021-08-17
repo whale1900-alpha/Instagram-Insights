@@ -12,11 +12,11 @@
         * Get Access Token
         * Get User ID, Page ID, Instagram ID and Media object
             * <code>GET /me/accounts</code>
-              ![img.png](picture/img.png)
+              ![img.png](picture/img_page_id.png)
             * <code>GET /{page-id}?fields=instagram_business_account</code>
-              ![img.png](picture/img.png)
+              ![img.png](picture/img_ig_id.png)
             * <code>GET /{ig-user-id}/media</code>
-              ![img.png](picture/img.png)
+              ![img.png](picture/img_data_id.png)
 ###Instagram Insights
 
 ![img.jpg](picture/photo_video_metrics.JPG)
@@ -25,10 +25,7 @@
 * reach accounts(#account seen)
 * saved
 * video_views
-
-<figure>
-<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzMwNDFmNGUtNjM4Yi00NTIxLWE1YTQtOTU0OTZhMDRlZjg3IiwidCI6ImNiOTAzNDgyLWU1MGYtNDlkNC1hMDlhLTFiYTIzMjc1MTFhNiJ9" frameborder="0" allowFullScreen="true"></iframe>
-</figure>
+  
 
 #### Reference
 https://developers.facebook.com/docs/instagram-api/getting-started
