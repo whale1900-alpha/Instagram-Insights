@@ -25,8 +25,10 @@
 * reach accounts(#account seen)
 * saved
 * video_views
-  
+
+<figure>
 <iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzMwNDFmNGUtNjM4Yi00NTIxLWE1YTQtOTU0OTZhMDRlZjg3IiwidCI6ImNiOTAzNDgyLWU1MGYtNDlkNC1hMDlhLTFiYTIzMjc1MTFhNiJ9" frameborder="0" allowFullScreen="true"></iframe>
+</figure>
 
 #### Reference
 https://developers.facebook.com/docs/instagram-api/getting-started
