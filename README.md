@@ -25,9 +25,13 @@
 * reach accounts(#account seen)
 * saved
 * video_views
+* like
+* comments
+* followers
+* posts
   
 
 #### Reference
-https://developers.facebook.com/docs/instagram-api/getting-started
-https://developers.facebook.com/docs/instagram-api/reference/ig-media/insights/
-https://developers.facebook.com/tools/explorer/
+1. [Getting Started](https://developers.facebook.com/docs/instagram-api/getting-started)
+2. [IG Metrics](https://developers.facebook.com/docs/instagram-api/reference/ig-media/insights/)
+3. [API Explorer](https://developers.facebook.com/tools/explorer/)
